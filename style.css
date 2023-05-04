@@ -3,6 +3,7 @@ body{
     margin: 5px 25% 5px 25%;
     overflow: hidden;
 }
+/*To make site mobile friendly, change magin on left and right to something like 5%*/
 p, h1, h2, h3, h4, h5, h6, ol, ul, a{
     color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
