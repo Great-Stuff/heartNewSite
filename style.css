@@ -1,0 +1,62 @@
+body{
+    background-color: #162428;
+    margin: 5px 25% 5px 25%;
+    overflow: hidden;
+}
+p, h1, h2, h3, h4, h5, h6, ol, ul, a{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#cutlink{
+    font-size: small;
+}
+a{
+    color: rgb(0, 182, 182);
+}
+a:focus{
+    color: rgb(0, 96, 134);
+}
+#mainText{
+    text-align: justify;
+}
+#headerText{
+    padding-bottom: 15px;
+    border-bottom: solid white 1px;
+}
+#navItems{
+    padding-bottom: 25px;
+    border-bottom: solid white 1px;
+    text-align: center;
+}
+#navItems a{
+    padding: 0;
+}
+#heartGIF{
+    float: left;
+    margin-right: 25px;
+}
+#novaLogo{
+    color: white;
+    height: 40px;
+    fill: white;
+    float: left;
+    margin-right: 7px;
+}
+#heartLabeled{
+    height: 200px;
+    width: 350px;
+    float: left;
+    margin-right: 20px;
+}
+#heartFacts{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+ul{
+    margin-top: 10px;
+}
+#footer{
+    position: absolute;
+    width: 50%;
+    bottom: 0px;
+}
